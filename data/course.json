@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ]
+  ],
+  "legacy_uid": "73fd3b03-f829-caf2-2a2f-e5a6ea43e0e9",
+  "instructors": {
+    "content": [
+      "177bc5f7-fe92-871d-20a4-0d68f78d1020"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6b9dbb10-a00f-ae14-9735-2c94121eb0de",
+    "website": "14-27-economics-and-e-commerce-fall-2014"
+  },
+  "course_title": "Economics and E-Commerce",
+  "course_description": "This course uses theoretical models and empirical studies to help understand the economics behind various internet businesses. We will begin with a discussion of relevant topics from industrial organization (IO) including monopoly pricing, price discrimination, product differentiation, and barriers to entry. The main part of the course will be a discussion of a number of online businesses. In the context of those businesses, we will discuss extensions and applications of the ideas from the first section of the course.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.27",
+  "course_image_thumbnail": {
+    "content": "8d77afad-657b-9026-54e5-42a4edab3e52",
+    "website": "14-27-economics-and-e-commerce-fall-2014"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "fda8f5e4-ea30-4c37-bd3e-af2fe8210da3",
+  "site_short_id": "14.27-fall-2014",
+  "site_url_path": "courses/14-27-economics-and-e-commerce-fall-2014",
+  "title": "Course Metadata"
+}
