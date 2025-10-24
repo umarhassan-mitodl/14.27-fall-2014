@@ -51,60 +51,60 @@ Entry
 
 ## Additional Readings
 
-Goldfarb, Avi, and Catherine Tucker. "{{% resource_link "e787d05e-10ae-4627-bc33-fc97de764be5" "Advertising Bans and the Substitutability of Online and Offline Advertising" %}}." May 4, 2010.
+Goldfarb, Avi, and Catherine Tucker. "[Advertising Bans and the Substitutability of Online and Offline Advertising](http://dx.doi.org/10.2139/ssrn.1600221)." May 4, 2010.
 
-———. "{{% resource_link "10f494b6-4256-487e-b3b7-973d8edf79dc" "Privacy Regulation and Online Advertising" %}}." *Management Science* 57, no. 1 (2010): 57–71.
+———. "[Privacy Regulation and Online Advertising](http://dx.doi.org/10.1287/mnsc.1100.1246)." *Management Science* 57, no. 1 (2010): 57–71.
 
-Ellison, Sara Fisher, and Christopher M. Snyder. "{{% resource_link "75eeb2ea-c562-441f-a111-1e5e621b75bc" "Countervailing Power in Wholesale Pharmaceuticals" %}}." *The Journal of Industrial Economics* 58, no. 1 (2010): 32–53.
+Ellison, Sara Fisher, and Christopher M. Snyder. "[Countervailing Power in Wholesale Pharmaceuticals](http://dx.doi.org/10.1111/j.1467-6451.2010.00408.x)." *The Journal of Industrial Economics* 58, no. 1 (2010): 32–53.
 
-Lucking-Reiley, David. "{{% resource_link "b3a2997e-775c-401c-a59d-1d2d7c1caae3" "Auctions on the Internet: What's Being Auctioned, and How?" %}}" *The Journal of Industrial Economics* 48, no. 3 (2000): 227–52.
+Lucking-Reiley, David. "[Auctions on the Internet: What's Being Auctioned, and How?](http://dx.doi.org/10.1111/1467-6451.00122)" *The Journal of Industrial Economics* 48, no. 3 (2000): 227–52.
 
-———. "{{% resource_link "1cab2937-c933-43e6-969b-92f9bea05964" "Vickrey Auctions in Practice: From Nineteenth Century Philately to Twenty-first Century E-commerce" %}}." *Journal of Economic Perspectives* 14, no. 3 (2000): 183–92.
+———. "[Vickrey Auctions in Practice: From Nineteenth Century Philately to Twenty-first Century E-commerce](https://dx.doi.org/10.1257/jep.14.3.183)." *Journal of Economic Perspectives* 14, no. 3 (2000): 183–92.
 
-Ellison, Glenn, Drew Fudenberg, et al. "{{% resource_link "0253cd97-37da-49cf-9f1e-0a849ae7ed38" "Competing Auctions" %}}." *Journal of the European Economic Association* 2, no. 1 (2004): 30–66.
+Ellison, Glenn, Drew Fudenberg, et al. "[Competing Auctions](http://dx.doi.org/10.1162/154247604323015472)." *Journal of the European Economic Association* 2, no. 1 (2004): 30–66.
 
-Byers, John W., Michael Mitzenmacher, et al. {{% resource_link "8b59f975-a11c-4f3f-bd15-c17c71b6ad48" "\"Daily Deals: Prediction, Social Diffusion, and Reputational Ramifications.\" (PDF)" %}} September 7, 2011.
+Byers, John W., Michael Mitzenmacher, et al. ["Daily Deals: Prediction, Social Diffusion, and Reputational Ramifications." (PDF)](http://journalistsresource.org/wp-content/uploads/2011/10/Groupon.pdf) September 7, 2011.
 
-———. "{{% resource_link "2063db0f-0956-4c3a-bc22-9bfbea8a738b" "The Groupon Effect on Yelp Ratings: A Root Cause Analysis" %}}." *Association for Computing Machinery* (2012): 248–65. \[arXiv:1202.2369\]
+———. "[The Groupon Effect on Yelp Ratings: A Root Cause Analysis](http://dx.doi.org/10.1145/2229012.2229034)." *Association for Computing Machinery* (2012): 248–65. \[arXiv:1202.2369\]
 
-Bajari, Patrick, and Ali Hortaçsu. "{{% resource_link "3a063583-a2a8-46c8-a495-37ad2519543a" "Economic Insights from Internet Auctions" %}}." *Journal of Economic Literature* 42, no. 2 (2004): 457–86.
+Bajari, Patrick, and Ali Hortaçsu. "[Economic Insights from Internet Auctions](http://dx.doi.org/10.1257/0022051041409075)." *Journal of Economic Literature* 42, no. 2 (2004): 457–86.
 
-Enos, Lori. "{{% resource_link "8c982d62-1e57-443e-9952-12ae095167fc" "Fees Cause Yahoo! Auctions to Drop More Than 80 Percent" %}}," *E-commerce Times*, February 13, 2001.
+Enos, Lori. "[Fees Cause Yahoo! Auctions to Drop More Than 80 Percent](http://www.ecommercetimes.com/story/7444.html)," *E-commerce Times*, February 13, 2001.
 
-Goolsbee, Austan. "{{% resource_link "72711c42-3500-4b6b-9f47-d7c61ad0e994" "In a World Without Borders: The Impact of Taxes on Internet Commerce" %}}." *The Quarterly Journal of Economics* 115, no. 2 (2000): 561–76.
+Goolsbee, Austan. "[In a World Without Borders: The Impact of Taxes on Internet Commerce](http://www.jstor.org/stable/2587003)." *The Quarterly Journal of Economics* 115, no. 2 (2000): 561–76.
 
-Edelman, Benjamin, Michael Ostrovsky, et al. "{{% resource_link "1495f3de-14ba-45f7-b383-10b923dd1905" "Internet Advertising and the Generalized Second-Price Auction: Selling Billions of Dollars Worth of Keywords" %}}." NBER Working Paper No. 11765, 2005.
+Edelman, Benjamin, Michael Ostrovsky, et al. "[Internet Advertising and the Generalized Second-Price Auction: Selling Billions of Dollars Worth of Keywords](http://www.nber.org/papers/w11765)." NBER Working Paper No. 11765, 2005.
 
-Stahl II, Dale O. "{{% resource_link "d0f14934-157c-4162-bbfe-fb1806e62299" "Oligopolistic Pricing with Sequential Consumer Search" %}}." *The American Economic Review* 79, no. 4 (1989): 700–12.
+Stahl II, Dale O. "[Oligopolistic Pricing with Sequential Consumer Search](http://www.jstor.org/stable/1827927)." *The American Economic Review* 79, no. 4 (1989): 700–12.
 
-Golder, Peter N., and Gerard J. Tellis. "{{% resource_link "a9ddea9f-003b-4e9a-92a8-5530d5bbcc49" "Pioneer Advantage: Marketing Logic or Marketing Legend" %}}?" *Journal of Marketing Research* 30, no. 2 (1993): 158–70.
+Golder, Peter N., and Gerard J. Tellis. "[Pioneer Advantage: Marketing Logic or Marketing Legend](http://www.jstor.org/stable/3172825)?" *Journal of Marketing Research* 30, no. 2 (1993): 158–70.
 
-Hossain, Tanjim, and John Morgan. {{% resource_link "3b589d91-2404-4845-a23c-8afc56849400" "\"Plus Shipping and Handling: Revenue (Non) Equivalence in Field Experiments on eBay.\" (PDF)" %}} *Advances in Economic Analysis & Policy* 6, no 2 (2006): 63–91.
+Hossain, Tanjim, and John Morgan. ["Plus Shipping and Handling: Revenue (Non) Equivalence in Field Experiments on eBay." (PDF)](https://www.degruyter.com/document/doi/10.2202/1538-0637.1429/html?lang=en) *Advances in Economic Analysis & Policy* 6, no 2 (2006): 63–91.
 
-Athey, Susan, and Glenn Ellison.  "{{% resource_link "b4c8ffe6-05e9-4cd9-ab71-be9ec3c60d98" "Position Auctions with Consumer Search" %}}." *The Quarterly Journal of Economics* 126, no. 3 (2011): 1213–70.
+Athey, Susan, and Glenn Ellison.  "[Position Auctions with Consumer Search](http://dx.doi.org/10.1093/qje/qjr028)." *The Quarterly Journal of Economics* 126, no. 3 (2011): 1213–70.
 
-Einav, Liran, Chiara Farronato, et. al. "{{% resource_link "5c2104a5-db21-4d42-97eb-2f335ab85479" "Sales Mechanisms in Online Markets: What Happened to Internet Auctions" %}}?" NBER Working Paper No. 19021, 2013.
+Einav, Liran, Chiara Farronato, et. al. "[Sales Mechanisms in Online Markets: What Happened to Internet Auctions](http://www.nber.org/papers/w19021)?" NBER Working Paper No. 19021, 2013.
 
-Einav, Liran, Dan Knoepfle, et. al. "{{% resource_link "d02201d1-5344-4dc0-a395-5d901a6dcf8e" "Sales Taxes and Internet Commerce" %}}." *American Economic Review* 104, no. 1 (2014): 1–26.
+Einav, Liran, Dan Knoepfle, et. al. "[Sales Taxes and Internet Commerce](https://dx.doi.org/10.1257/aer.104.1.1)." *American Economic Review* 104, no. 1 (2014): 1–26.
 
-Levy, Steven. "{{% resource_link "51f7dced-c4ba-4157-b897-863fb9efb429" "Secret of Googlenomics: Data-Fueled Recipe Brews Profitability" %}}." *Wired*. May 22, 2009.
+Levy, Steven. "[Secret of Googlenomics: Data-Fueled Recipe Brews Profitability](http://archive.wired.com/culture/culturereviews/magazine/17-06/nep_googlenomics)." *Wired*. May 22, 2009.
 
-Ellison, Glenn, and Sara Fisher Ellison. "{{% resource_link "c45110b1-ef6f-4edf-ad6f-053ad694bd0f" "Tax Sensitivity and Home State Preferences in Internet Purchasing" %}}." *American Economic Journal: Economic Policy* 1, no. 2 (2009): 53–71.
+Ellison, Glenn, and Sara Fisher Ellison. "[Tax Sensitivity and Home State Preferences in Internet Purchasing](https://dx.doi.org/10.1257/pol.1.2.53)." *American Economic Journal: Economic Policy* 1, no. 2 (2009): 53–71.
 
 ### Articles about Amazon.com
 
-Barney, Lee. "{{% resource_link "e2d36900-7ed1-4e38-8c4a-ad2d88d7c31c" "Amazon.com: Forget Being Earth's Superstore. Can It Turn a Profit" %}}?," *The Street*, December 18, 2000.
+Barney, Lee. "[Amazon.com: Forget Being Earth's Superstore. Can It Turn a Profit](http://www.thestreet.com/story/1215763/1/amazoncom-forget-being-earths-superstore-can-it-turn-a-profit.html)?," *The Street*, December 18, 2000.
 
-Acohido, Byron. "{{% resource_link "d8dbf267-6128-4f10-94a2-dbbb45b1735f" "Amazon: We'll Be Profitable by Year's End" %}}," *USA Today*, February 6, 2002.
+Acohido, Byron. "[Amazon: We'll Be Profitable by Year's End](http://usatoday30.usatoday.com/life/cyber/invest/2001-03-26-amazon.htm)," *USA Today*, February 6, 2002.
 
 Thomas, Owen. "Amazon.com Tests the Notion of Fixed Prices." *Business 2.0*. September 28, 2000.
 
-Angwin, Julia, and Dana Mattioli. "{{% resource_link "f16a6726-986c-4c84-93d5-639aafedb198" "Don't Like This Price? Wait a Minute" %}}," *The Wall Street Journal*, September 5, 2012.
+Angwin, Julia, and Dana Mattioli. "[Don't Like This Price? Wait a Minute](http://allthingsd.com/20120905/dont-like-this-price-wait-a-minute/)," *The Wall Street Journal*, September 5, 2012.
 
-Gannett, Allen. "{{% resource_link "c3c5ce2a-2470-428d-81dc-f21d817a0c50" "Behavioral Pricing: A Consumer's Worst Nightmare, A Merchant's Dream" %}}," *The Next Web*, January 21, 2012.
+Gannett, Allen. "[Behavioral Pricing: A Consumer's Worst Nightmare, A Merchant's Dream](http://thenextweb.com/insider/2012/01/21/behavioral-pricing-a-consumers-worst-nightmare-a-merchants-dream/)," *The Next Web*, January 21, 2012.
 
-Luhby, Tami. "{{% resource_link "f186e1ac-b015-4acf-83bf-69f483388ed5" "Get Ready to Pay Sales Tax on Amazon" %}}." *CNN Money*. July 18, 2012.
+Luhby, Tami. "[Get Ready to Pay Sales Tax on Amazon](http://money.cnn.com/2012/07/18/news/economy/amazon-sales-tax/)." *CNN Money*. July 18, 2012.
 
-Streitfeld, David. "{{% resource_link "0dc31aca-985b-47a3-845e-0c50b0605f98" "Amazon, Forced to Collect a Tax, Is Adding Roots" %}}," *New York Times*, September 11, 2012.
+Streitfeld, David. "[Amazon, Forced to Collect a Tax, Is Adding Roots](http://www.nytimes.com/2012/09/12/technology/amazon-forced-to-collect-sales-tax-aims-to-keep-its-competitive-edge.html?_r=0)," *New York Times*, September 11, 2012.
 
-Manjoo, Farhard. "{{% resource_link "e927cdbc-96ea-40ac-aa4f-a9ffd0eb44b4" "I Want it Today: How Amazon's Ambitious New Push for Same-day Delivery will Destroy Local Retail." %}}." *Slate.com*, July 11, 2012.
+Manjoo, Farhard. "[I Want it Today: How Amazon's Ambitious New Push for Same-day Delivery will Destroy Local Retail.](http://www.slate.com/articles/business/small_business/2012/07/amazon_same_day_delivery_how_the_e_commerce_giant_will_destroy_local_retail_.html)." *Slate.com*, July 11, 2012.
